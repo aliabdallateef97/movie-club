@@ -1,0 +1,38 @@
+.casting{
+    margin: 4rem 1rem 0;
+}
+.casting h2{
+    color: white;
+    margin-bottom: 1rem;
+}
+
+.casting.light h2{
+    color: #111;
+}
+
+.cast{
+    border-radius: 10px;
+    /* border: 1px solid rgba(var(--lightGrey), 1); */
+    box-shadow: 0 0 10px 4px #524c4c;
+    margin-right: 1.4rem;
+    overflow: hidden;
+    color: white;
+    background-color: white;
+    margin: 1rem;
+}
+.cast.light{
+    background-color: #111;
+}
+.cast .actor{
+    padding: 7px;
+    color: black;
+}
+.cast.light .actor{
+    color: white;
+}
+.cast img{
+    max-width: 100%;
+}
+a{
+    text-decoration: none;
+}

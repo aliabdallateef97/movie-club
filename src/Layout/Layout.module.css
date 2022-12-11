@@ -1,0 +1,6 @@
+.layout{
+    background-color: #111;
+}
+.layout.light{
+    background-color: #fff;
+}

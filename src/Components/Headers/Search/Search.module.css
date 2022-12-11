@@ -1,0 +1,40 @@
+.search {
+  position: relative;
+  width: 400px;
+}
+@media (max-width: 767px) {
+  .search {
+    width: 200px;
+  }
+}
+.search input {
+  padding: 5px 25px;
+  border: none;
+  outline: none;
+  color: grey;
+  width: 100%;
+}
+.search svg {
+  position: absolute;
+  color: gray;
+  left: 4px;
+  top: 4px;
+}
+.search ul {
+  position: absolute;
+  background-color: white;
+  top: 100%;
+  min-width: 100%;
+  padding: 6px 16px;
+  max-height: 300px;
+  overflow: auto;
+}
+.search ul li {
+  list-style: none;
+  padding-bottom: 5px;
+  font-size: 14px;
+}
+.search ul li a {
+  text-decoration: none;
+  color: grey;
+}

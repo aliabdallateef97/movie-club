@@ -1,0 +1,11 @@
+.trailer{
+    margin: 3rem 0;
+}
+.trailer h2{
+    color: white;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+}
+.trailer.light h2{
+color: #111;
+}

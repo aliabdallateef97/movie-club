@@ -1,0 +1,30 @@
+.actor{
+    display: flex;
+    gap: 2rem;
+    margin: 0 2rem 3rem;
+    padding-top: 1rem;
+}
+@media(max-width:767px){
+    .actor{
+        flex-flow: column;
+    }
+}
+.actor img{
+    width: 350px;
+    height: 450px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 4px #524c4c;
+}
+.actor .information{
+    color: white;
+}
+.actor.light .information{
+    color: #111;
+}
+
+.actor .information h2{
+    margin-bottom: 1rem;
+}
+.actor .information h4{
+    font-weight: 300;
+}
