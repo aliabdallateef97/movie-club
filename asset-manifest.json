@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/movie-club/static/css/main.e08bf905.css",
+    "main.js": "/movie-club/static/js/main.3859a06e.js",
+    "static/css/645.db84066d.chunk.css": "/movie-club/static/css/645.db84066d.chunk.css",
+    "static/js/645.99226eaa.chunk.js": "/movie-club/static/js/645.99226eaa.chunk.js",
+    "static/css/707.5e55b3b3.chunk.css": "/movie-club/static/css/707.5e55b3b3.chunk.css",
+    "static/js/707.dff19c1b.chunk.js": "/movie-club/static/js/707.dff19c1b.chunk.js",
+    "static/media/logo.png": "/movie-club/static/media/logo.6ae3259ee34bb35d8e78.png",
+    "index.html": "/movie-club/index.html",
+    "main.e08bf905.css.map": "/movie-club/static/css/main.e08bf905.css.map",
+    "main.3859a06e.js.map": "/movie-club/static/js/main.3859a06e.js.map",
+    "645.db84066d.chunk.css.map": "/movie-club/static/css/645.db84066d.chunk.css.map",
+    "645.99226eaa.chunk.js.map": "/movie-club/static/js/645.99226eaa.chunk.js.map",
+    "707.5e55b3b3.chunk.css.map": "/movie-club/static/css/707.5e55b3b3.chunk.css.map",
+    "707.dff19c1b.chunk.js.map": "/movie-club/static/js/707.dff19c1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e08bf905.css",
+    "static/js/main.3859a06e.js"
+  ]
+}
